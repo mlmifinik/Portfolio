@@ -10,9 +10,9 @@
 |[Прогнозирование оттока клиентов банка](https://github.com/mlmifinik/Yandex_practicum/tree/main/Forecasting%20customer%20churn)|Спрогнозировать, уйдёт клиент из банка в ближайшее время или нет|Matplotlib, Pandas, Sklearn|
 |[Выбор локации для нефтяной скважины](https://github.com/mlmifinik/Yandex_practicum/tree/main/Location%20selection)|Построить модель для определения региона, где добыча принесёт наибольшую прибыль|Pandas, Sklearn|
 |[Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/mlmifinik/Yandex_practicum/tree/main/Prediction%20of%20the%20coefficient)|Построить модель которая предсказывает коэффициент восстановления золота из золотосодержащей руды|Matplotlib, NumPy, Pandas, Python, Sklearn|
-|[Защита персональных данных клиентов страховой компании](https://github.com/mlmifinik/Yandex_practicum/tree/main/Data%20protection)|||
-|[Определение стоимости автомобиля](https://github.com/mlmifinik/Yandex_practicum/tree/main/Determining%20the%20cost)|||
-|[Прогнозирование количества заказов такси на следующий час](https://github.com/mlmifinik/Yandex_practicum/tree/main/Forecasting%20orders)|||
-|[Классификация комментариев](https://github.com/mlmifinik/Yandex_practicum/tree/main/Classification%20of%20comments)|||
-|[Определение возраста по фотографии](https://github.com/mlmifinik/Yandex_practicum/tree/main/Age%20determination)|||
-|[Промышленная обработка стали](https://github.com/mlmifinik/Yandex_practicum/tree/main/Temperature%20prediction)|||
+|[Защита персональных данных клиентов страховой компании](https://github.com/mlmifinik/Yandex_practicum/tree/main/Data%20protection)|Разработать метод преобразования данных, чтобы по ним было сложно восстановить персональные данные|NumPy, Python, Sklearn|
+|[Определение стоимости автомобиля](https://github.com/mlmifinik/Yandex_practicum/tree/main/Determining%20the%20cost)|Построить модель, которая умеет определять рыночную стоимость автомобиля|Pandas, Python, LightGBM|
+|[Прогнозирование количества заказов такси на следующий час](https://github.com/mlmifinik/Yandex_practicum/tree/main/Forecasting%20orders)|Построить модель для предсказания количества заказов такси на следующий час|Pandas, Python, Sklearn, statsmodels|
+|[Классификация комментариев](https://github.com/mlmifinik/Yandex_practicum/tree/main/Classification%20of%20comments)|Найти инструмент, который будет искать токсичные комментарии и отправлять их на модерацию|Pandas, Python, nltk, tf-idf|
+|[Определение возраста по фотографии](https://github.com/mlmifinik/Yandex_practicum/tree/main/Age%20determination)|Построить модель, которая по фотографии человека могла бы предсказывать его возраст|Python, Keras|
+|[Промышленная обработка стали](https://github.com/mlmifinik/Yandex_practicum/tree/main/Temperature%20prediction)|Построить модель, которая предскажет температуру стали|Python, Matplotlib, Seaborn, NumPy, Sklearn, CatBoost, LightGBM, XGBoost|
