@@ -1,6 +1,6 @@
 #### Портфолио проектов
-|Название|
-|:----|
+|Наименование| Описание| Стек|
+|:-|:--|:---|
 |[Сравнение поведения пользователей](https://github.com/mlmifinik/Yandex_practicum/tree/main/User%20behavior%20research)|
 |[Исследование надёжности заёмщиков банка](https://github.com/mlmifinik/Yandex_practicum/tree/main/Reliability%20research)|
 |[Исследование объявлений о продаже квартир](https://github.com/mlmifinik/Yandex_practicum/tree/main/Realty%20research)|
